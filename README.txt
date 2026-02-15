@@ -1,8 +1,8 @@
 Groupe n° 001 :
 
-Khalil Mohammad (num étudiant 22105803), groupe TP 4A
+Khalil Mohammad 
 
-Mohamad Omar Aldroubi (num étudiant 22107485), groupe TP 4A
+Mohamad Omar Aldroubi 
 
 
 Le dossier src/ contient les fichier .java organisé dans des packages comme demandés.
